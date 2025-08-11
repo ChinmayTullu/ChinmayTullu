@@ -40,7 +40,7 @@
 **Technologies and Frameworks**
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="springboot" width="55" height="55"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-plain-wordmark.svg" alt="flask" width="55" height="55"/>&nbsp;
+<kbd style="background-color: white; padding: 2px; border-radius: 5px; border: none; box-shadow: none; vertical-align: top; display: inline-block;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="55" height="55" style="vertical-align: top;"/></kbd>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="55" height="55"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="55" height="55"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="55" height="55"/>&nbsp;
@@ -61,8 +61,17 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" alt="gradle" width="55" height="55"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" alt="maven" width="55" height="55"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="55" height="55"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="55" height="55"/>&nbsp;
+<kbd style="background-color: white; padding: 2px; border-radius: 5px; border: none; box-shadow: none; vertical-align: top; display: inline-block;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="55" height="55" style="vertical-align: top;"/></kbd>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="55" height="55"/>
+</p>
+
+<!-- GitHub Stats -->
+<h2> 📊 &nbsp;GitHub Stats</h2>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=ChinmayTullu&show_icons=true&theme=transparent" alt="GitHub Stats" width="70%"/>
+</p>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmayTullu&layout=compact&theme=transparent&langs_count=8" alt="Top Languages" width="70%"/>
 </p>
 </p>
 </h2>
