@@ -67,7 +67,8 @@
 
 <!-- GitHub Stats -->
 <h2> 📊 &nbsp;GitHub Stats</h2>
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ChinmayTullu&show_icons=true&theme=transparent" alt="GitHub Stats" width="59%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmayTullu&layout=compact&theme=transparent&langs_count=8" alt="Top Languages" width="39%"/>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ChinmayTullu&show_icons=true&theme=transparent" alt="GitHub Stats" width="57.5%"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmayTullu&layout=compact&theme=transparent&langs_count=8" alt="Top Languages" width="38%"/>
 </p>
