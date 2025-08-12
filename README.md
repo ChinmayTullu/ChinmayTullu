@@ -40,7 +40,9 @@
 **Technologies and Frameworks**
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="springboot" width="55" height="55"/>&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="flask" width="45" height="55"/>
+<span style="background-color: white; padding-top: 1.5px; padding-left: 5px; border-radius: 5px; display: inline-block; vertical-align: top;">
+  <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="flask" width="55" height="55">
+</span>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="55" height="55"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="55" height="55"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="55" height="55"/>&nbsp;
