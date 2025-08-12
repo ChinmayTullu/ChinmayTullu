@@ -40,7 +40,7 @@
 **Technologies and Frameworks**
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="springboot" width="55" height="55"/>&nbsp;
-<img src="https://cdn.simpleicons.org/flask/000000/ffffff" alt="flask" width="55" height="55"/>&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="flask" width="45" height="55"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="55" height="55"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="55" height="55"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="55" height="55"/>&nbsp;
@@ -56,8 +56,8 @@
 
 **Developer Tools**
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="android studio" width="55" height="55"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="55" height="55"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="android studio" width="55" height="55"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" alt="gradle" width="55" height="55"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" alt="maven" width="55" height="55"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="55" height="55"/>&nbsp;
@@ -68,12 +68,6 @@
 <!-- GitHub Stats -->
 <h2> 📊 &nbsp;GitHub Stats</h2>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ChinmayTullu&show_icons=true&theme=transparent" alt="GitHub Stats" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmayTullu&layout=compact&theme=transparent&langs_count=8" alt="Top Languages" width="49%"/>
-</p>
-
-<!-- Snake Animation -->
-<h2> 🐍 &nbsp;Contribution Snake</h2>
-<p align="center">
-<img src="https://raw.githubusercontent.com/ChinmayTullu/ChinmayTullu/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://github-readme-stats.vercel.app/api?username=ChinmayTullu&show_icons=true&theme=transparent" alt="GitHub Stats" width="59%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmayTullu&layout=compact&theme=transparent&langs_count=8" alt="Top Languages" width="39%"/>
 </p>
