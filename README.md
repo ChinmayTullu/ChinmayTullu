@@ -30,20 +30,20 @@
 ### 🚀 Passionate Full-Stack Developer | 💻 Software Developer | 🌟 Tech Innovator
 
 <div align="center">
-<table>
-<tr>
-<td width="58%" valign="top">
+<table style="border: none; border-collapse: collapse;">
+<tr style="border: none;">
+<td width="58%" valign="top" style="border: none;">
 
 ### 💫 What drives me:
 
-#### 🔥 **Building amazing** apps that enhance user experiences  
-#### 📱 **Creating seamless** cross-platform mobile and web solutions  
-#### 🎯 **Learning cutting-edge** technologies and modern development frameworks  
-#### 📊 **Exploring data** science insights through machine learning  
-#### 🤝 **Collaborating on** exciting innovative projects with teams  
+#### 🔥 **Building** amazing apps that enhance user experiences  
+#### 📱 **Creating** seamless cross-platform mobile and web solutions  
+#### 🎯 **Learning** cutting-edge technologies and modern development frameworks  
+#### 📊 **Exploring** data science insights through machine learning  
+#### 🤝 **Collaborating** on exciting innovative projects with teams  
 
 </td>
-<td width="42%" valign="top">
+<td width="42%" valign="top" style="border: none;">
 
 <img alt="Coding" width="100%" src="https://user-images.githubusercontent.com/74038190/216655827-a410d92c-88f7-4639-bf0a-6f0a36134591.gif">
 
