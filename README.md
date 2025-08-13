@@ -34,13 +34,11 @@
 <tr style="border: none;">
 <td width="58%" valign="top" style="border: none;">
 
-### 💫 What drives me:
-
-#### 🔥 **Building** amazing apps that enhance user experiences  
-#### 📱 **Creating** seamless cross-platform mobile and web solutions  
-#### 🎯 **Learning** cutting-edge technologies and modern development frameworks  
-#### 📊 **Exploring** data science insights through machine learning  
-#### 🤝 **Collaborating** on exciting innovative projects with teams  
+🔥**Building** amazing apps that enhance user experiences  
+📱 **Creating** seamless cross-platform mobile and web solutions  
+🎯 **Learning** cutting-edge technologies and modern development frameworks  
+📊 **Exploring** data science insights through machine learning  
+🤝 **Collaborating** on exciting innovative projects with teams  
 
 </td>
 <td width="42%" valign="top" style="border: none;">
