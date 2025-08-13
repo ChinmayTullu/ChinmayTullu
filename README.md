@@ -5,7 +5,7 @@
 
 <!-- Let's Connect -->
 <h2 align="left">
-  Let's Connect and have a Chat!💬
+  💬 Let's Connect and have a Chat
 </h2>
 
 <p align="left">
@@ -23,20 +23,33 @@
 
 <!-- About Me -->
 <h2 align="left">
-  ✨ About Me!
+  👨‍💻 About Me
 </h2>
 
-<p align="left">
-• 👨‍💻 <strong>Passionate Full-Stack Developer</strong> who loves turning ideas into reality<br/>
-• 🚀 <strong>Tech Enthusiast</strong> always exploring the latest technologies and frameworks<br/>
-• 🧠 <strong>Problem Solver</strong> who enjoys tackling complex challenges with creative solutions<br/>
-• 📱 <strong>Mobile & Web Developer</strong> building seamless user experiences across platforms<br/>
-• 🎯 <strong>Goal-Oriented</strong> focused on creating impactful and scalable applications<br/>
-• 📊 <strong>Data Science Explorer</strong> diving into insights and machine learning<br/>
-• ☕ <strong>Coffee-Powered Coder</strong> who believes the best code is written with great coffee!<br/>
-• 🤝 <strong>Collaboration Ready</strong> always open to exciting projects and new opportunities
-</p>
+### 🚀 Passionate Full-Stack Developer | 💻 Software Developer | 🌟 Tech Innovator
 
+<table>
+<tr>
+<td width="54%" valign="top">
+
+### 💫 What drives me:
+
+🔥 **Building amazing** apps that enhance user experiences  
+📱 **Creating seamless** cross-platform mobile and web solutions  
+🎯 **Learning cutting-edge** technologies and modern development frameworks  
+📊 **Exploring data** science insights through machine learning  
+🤝 **Collaborating on** exciting innovative projects with teams  
+
+</td>
+<td width="44%" valign="top">
+
+<img alt="Coding" width="100%" src="https://user-images.githubusercontent.com/74038190/216655827-a410d92c-88f7-4639-bf0a-6f0a36134591.gif">
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <!-- Tools Used -->
 <h2> 🚀 Tools I Have Learned and Used</h2>
@@ -88,4 +101,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ChinmayTullu&show_icons=true&theme=transparent" alt="GitHub Stats" width="57.5%"/>
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmayTullu&layout=compact&theme=transparent&langs_count=8" alt="Top Languages" width="38%"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
