@@ -4,9 +4,9 @@
 
 
 <!-- Let's Connect -->
-<h2 align="left">
+<h1 align="left">
   💬 Let's Connect and have a Chat
-</h2>
+</h1>
 
 <p align="left">
 <a href="https://github.com/ChinmayTullu">
@@ -20,17 +20,19 @@
 </a>
 </p>
 
+<br />
 
 <!-- About Me -->
-<h2 align="left">
+<h1 align="left">
   👨‍💻 About Me
-</h2>
+</h1>
 
 ### 🚀 Passionate Full-Stack Developer | 💻 Software Developer | 🌟 Tech Innovator
 
-<table>
+<div align="center">
+<table style="border: none;" cellpadding="0" cellspacing="0" border="0">
 <tr>
-<td width="54%" valign="top">
+<td width="54%" valign="top" style="border: none;">
 
 ### 💫 What drives me:
 
@@ -41,18 +43,18 @@
 🤝 **Collaborating on** exciting innovative projects with teams  
 
 </td>
-<td width="44%" valign="top">
+<td width="44%" valign="top" style="border: none;">
 
 <img alt="Coding" width="100%" src="https://user-images.githubusercontent.com/74038190/216655827-a410d92c-88f7-4639-bf0a-6f0a36134591.gif">
 
 </td>
 </tr>
 </table>
+</div>
 
-<br>
 
 <!-- Tools Used -->
-<h2> 🚀 Tools I Have Learned and Used</h2>
+<h1> 🚀 Tools I Have Learned and Used</h1>
 
 **Languages**
 <p align="left">
@@ -95,8 +97,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="55" height="55"/>
 </p>
 
+<br />
+
 <!-- GitHub Stats -->
-<h2> 📊 &nbsp;GitHub Stats</h2>
+<h1> 📊 &nbsp;GitHub Stats</h1>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ChinmayTullu&show_icons=true&theme=transparent" alt="GitHub Stats" width="57.5%"/>
 &nbsp;
