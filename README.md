@@ -9,7 +9,7 @@
 </h2>
 
 <p align="left">
-<a href="">
+<a href="https://github.com/ChinmayTullu">
   <img height="60" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
 </a>&nbsp;
 <a href="https://www.linkedin.com/in/chinmay-tullu-2506ab28a/">
@@ -18,6 +18,23 @@
 <a href="https://www.instagram.com/chinmaytullu_04/">
   <img height="60" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
+</p>
+
+
+<!-- About Me -->
+<h2 align="left">
+  ✨ About Me!
+</h2>
+
+<p align="left">
+• 👨‍💻 <strong>Passionate Full-Stack Developer</strong> who loves turning ideas into reality<br/>
+• 🚀 <strong>Tech Enthusiast</strong> always exploring the latest technologies and frameworks<br/>
+• 🧠 <strong>Problem Solver</strong> who enjoys tackling complex challenges with creative solutions<br/>
+• 📱 <strong>Mobile & Web Developer</strong> building seamless user experiences across platforms<br/>
+• 🎯 <strong>Goal-Oriented</strong> focused on creating impactful and scalable applications<br/>
+• 📊 <strong>Data Science Explorer</strong> diving into insights and machine learning<br/>
+• ☕ <strong>Coffee-Powered Coder</strong> who believes the best code is written with great coffee!<br/>
+• 🤝 <strong>Collaboration Ready</strong> always open to exciting projects and new opportunities
 </p>
 
 
