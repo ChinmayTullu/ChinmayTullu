@@ -29,10 +29,9 @@
 
 ### 🚀 Passionate Full-Stack Developer | 💻 Software Developer | 🌟 Tech Innovator
 
-<div align="center">
-  <div style="display: flex; align-items: flex-start; justify-content: center; gap: 20px;">
-    
-<div style="flex: 1;">
+<table>
+<tr>
+<td width="58%" valign="top">
 
 ### 💫 What drives me:
 
@@ -42,14 +41,14 @@
 📊 **Exploring data** science insights through machine learning  
 🤝 **Collaborating on** exciting innovative projects with teams  
 
-</div>
+</td>
+<td width="42%" valign="top">
 
-<div style="flex: 0 0 350px;">
 <img alt="Coding" width="100%" src="https://user-images.githubusercontent.com/74038190/216655827-a410d92c-88f7-4639-bf0a-6f0a36134591.gif">
-</div>
 
-  </div>
-</div>
+</td>
+</tr>
+</table>
 <br />
 
 
